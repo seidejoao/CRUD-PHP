@@ -3,15 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Documentos</title>
 </head>
 <body>
-    <h3>Signup</h3>
-    <form action="includes/formHandler.php" method="post">
-        <input type="text" name="username" placeholder="Username">
-        <input type="password" name="password" placeholder="Password">
-        <input type="text" name="email" placeholder="Email">
-        <button>Signup</button>
-    </form>
+    <h2>Qual gostaria de acessar?</h2>
+    <button action="">Criar</button>
 </body>
 </html>
